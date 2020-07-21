@@ -1,14 +1,17 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+ [
+    
+    {
+    "albumId": 1,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://cdn.shopify.com/s/files/1/0590/2477/products/dom-perignon-champagne-brut-vintage-aoc-spumanti-moet-et-chandon-75-cl-2008-coffret-13421008289903.png?v=1573739402",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
   }
-}
+]
